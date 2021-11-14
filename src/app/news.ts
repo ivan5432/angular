@@ -1,0 +1,22 @@
+export const news=[
+   {
+       title: "News1",
+       content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo. Et magnis dis parturient montes nascetur. Risus nullam eget felis eget nunc lobortis mattis. Arcu cursus vitae congue mauris rhoncus. Odio pellentesque diam volutpat commodo sed egestas. Mattis enim ut tellus elementum sagittis vitae. Dis parturient montes nascetur ridiculus mus mauris vitae. Enim neque volutpat ac tincidunt. Tempus quam pellentesque nec nam aliquam sem et tortor. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Est ultricies integer quis auctor elit sed vulputate. Viverra nibh cras pulvinar mattis nunc. Diam sit amet nisl suscipit adipiscing bibendum est ultricies integer. Egestas erat imperdiet sed euismod nisi porta lorem. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum."
+   },  
+   {
+       title: "News2",
+       content: "Dignissim sodales ut eu sem integer vitae justo eget. Non arcu risus quis varius quam quisque id. Pellentesque nec nam aliquam sem et tortor consequat id porta. Consectetur lorem donec massa sapien faucibus et molestie. Praesent elementum facilisis leo vel fringilla est. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Nisl condimentum id venenatis a condimentum. Arcu non odio euismod lacinia at quis. Massa vitae tortor condimentum lacinia quis. Tellus in metus vulputate eu scelerisque felis imperdiet proin. Etiam dignissim diam quis enim lobortis scelerisque fermentum. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Consectetur purus ut faucibus pulvinar elementum integer. Vulputate mi sit amet mauris commodo quis imperdiet. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor. Sed vulputate odio ut enim. Nisl pretium fusce id velit ut tortor pretium. Maecenas accumsan lacus vel facilisis volutpat est. Pharetra sit amet aliquam id."
+   },
+   {
+       title: "News3",
+       content: "Nunc congue nisi vitae suscipit tellus mauris. Nunc eget lorem dolor sed viverra. Elit ut aliquam purus sit. Aenean euismod elementum nisi quis eleifend quam adipiscing. Orci porta non pulvinar neque laoreet suspendisse interdum. Augue neque gravida in fermentum et sollicitudin. Est placerat in egestas erat imperdiet. Elementum tempus egestas sed sed. Nunc sed id semper risus in. Nec dui nunc mattis enim. Amet tellus cras adipiscing enim eu."
+   },
+   {
+       title: "News4",
+       content: "Dui faucibus in ornare quam viverra orci sagittis. Arcu non odio euismod lacinia at quis risus sed vulputate. Enim sed faucibus turpis in eu. Commodo elit at imperdiet dui accumsan sit amet nulla facilisi. Diam phasellus vestibulum lorem sed risus ultricies tristique nulla aliquet. Turpis egestas sed tempus urna. Sodales neque sodales ut etiam sit amet nisl purus. Velit scelerisque in dictum non consectetur. Quisque egestas diam in arcu. Sed blandit libero volutpat sed cras ornare arcu dui. Sit amet tellus cras adipiscing enim. Enim sed faucibus turpis in eu mi bibendum neque egestas. Non odio euismod lacinia at quis risus sed vulputate odio. In cursus turpis massa tincidunt dui ut."
+   },
+   {
+       title: "News5",
+       content: "Fermentum posuere urna nec tincidunt. Tortor pretium viverra suspendisse potenti nullam. Sapien faucibus et molestie ac feugiat sed lectus vestibulum. Scelerisque fermentum dui faucibus in ornare quam viverra. Quam viverra orci sagittis eu volutpat odio facilisis mauris. Morbi tristique senectus et netus. Pellentesque elit eget gravida cum sociis natoque penatibus et. Tincidunt praesent semper feugiat nibh. Auctor eu augue ut lectus. Eu volutpat odio facilisis mauris sit amet massa vitae tortor. Mattis rhoncus urna neque viverra justo nec ultrices. Sit amet mauris commodo quis imperdiet massa tincidunt. Vitae tortor condimentum lacinia quis vel eros donec ac odio. Sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Molestie ac feugiat sed lectus vestibulum mattis ullamcorper velit. Dictum fusce ut placerat orci nulla pellentesque dignissim. Pellentesque id nibh tortor id aliquet lectus."
+   }
+]
